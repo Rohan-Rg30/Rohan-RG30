@@ -38,12 +38,6 @@ Data Scientist with hands-on training in building end-to-end machine learning pi
 
 *More projects (Salary Range Prediction, Product Cluster Analysis, Solar Energy Production, Movie Success Prediction) in progress — repos coming soon.*
 
-### GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rohan-Rg30&show_icons=true&theme=default" alt="Rohan's GitHub stats" />
-</p>
-
 ---
 
 <p align="center"><i>Open to Data Analyst / Associate Data Scientist / ML Engineer opportunities — Mumbai, Navi Mumbai, Thane</i></p>
