@@ -36,7 +36,7 @@ Data Scientist with hands-on training in building end-to-end machine learning pi
 | [Hotel Reservation Cancellation Prediction](https://github.com/Rohan-Rg30/Predicting_Hotel_Reservation_Cancellations) | 93% Accuracy · 95.58% ROC-AUC | Random Forest, SMOTETomek |
 | [NYPD Shooting Incident Fatality Classification](https://github.com/Rohan-Rg30/Classifying-Shooting-Incident-Fatality) | 85.08% Accuracy · 90.69% ROC-AUC | Random Forest, SMOTE |
 
-*More projects (Salary Range Prediction, Product Cluster Analysis, Solar Energy Production, Movie Success Prediction) in progress — repos coming soon.*
+*More projects in progress — repos coming soon.*
 
 ---
 
